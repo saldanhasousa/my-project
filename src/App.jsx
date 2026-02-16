@@ -1,4 +1,5 @@
 import Colers from "./components/Colers"
+import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Hightlight from "./components/Hightlight"
 import Intro from "./components/Intro"
@@ -13,6 +14,7 @@ function App() {
       <Intro/>
       <Hightlight />
       <Colers />
+      <Footer />
     </div>
   )
 }
